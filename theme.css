@@ -1,11 +1,9 @@
 :root{
     /*bg colorss*/
     --bg-primary-color:rgb(80, 31, 80);
-    --bg-seccondary-color:rgb(29, 27, 27);
+    --bg-secondary-color:rgb(199, 158, 217);
+    --bg-tertiary-color:rgb(255, 232, 250);
     --bg-active-color:rgb(234, 232, 239);
-
-
-
 
     /*padding*/
     --padding-sm:0.5rem;
@@ -25,10 +23,14 @@
     --font-size-lg:1.5rem;
 
     /*text colors*/
-    --text-primary-color:rgb(231, 216, 216);
-    --text-seccondary-color:rgb(175, 142, 142);
+    --text-primary-color:rgb(241, 227, 236);
+    --text-seccondary-color:rgb(11, 5, 5);
     --text-active-color:rgb(195, 190, 207);
 
+    /*border radius*/
+    --border-radius-sm:0.5rem;
+    --border-radius-md:1rem;
+    --border-radius-lg:1.5rem;
 
 
     
